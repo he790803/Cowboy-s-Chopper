@@ -482,7 +482,7 @@ ul.social-icons.list-inline {
     margin-left: 5px;
 }
 
-.carousel-control-prev-icon {
+/* .carousel-control-prev-icon {
     background-image: url(../images/resources/img/left-arrow.svg);
     padding: 25px;
 }
@@ -503,6 +503,11 @@ ul.social-icons.list-inline {
 
 #about-us .carousel-control-prev {
     left: -35px;
+} */
+.fa-chevron-left,fa-chevron-right{
+    font-size: 30px;
+    padding: 15px;
+    color:black;
 }
 
 #about-us h3 {
